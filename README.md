@@ -43,11 +43,6 @@ git clone https://github.com/abdul2801/Wifi_App
 - You can view real-time logs of the app's activity in the Logcat viewer.
 
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
-
-## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
