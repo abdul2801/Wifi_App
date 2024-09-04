@@ -42,10 +42,3 @@ git clone https://github.com/abdul2801/Wifi_App
 - The app runs in the background, automatically logging you in whenever the network is detected.
 - You can view real-time logs of the app's activity in the Logcat viewer.
 
-
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README with any additional details specific to your project!
