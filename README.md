@@ -1,4 +1,3 @@
-Here's a README for your GitHub project that auto-logins to the IIIT Kottayam network:
 
 ---
 
@@ -43,25 +42,6 @@ git clone https://github.com/yourusername/IIITKottayam-AutoLogin.git
 - The app runs in the background, automatically logging you in whenever the network is detected.
 - You can view real-time logs of the app's activity in the Logcat viewer.
 
-## Code Overview
-
-### `MainActivity.java`
-- Handles the main UI and user interaction.
-- Stores user credentials and triggers the auto-login process.
-
-### `LogcatRetriever.java`
-- Retrieves and filters logcat logs to monitor app activity.
-
-### `NetworkLoginService.java`
-- A background service that detects the IIIT Kottayam network and performs the login automatically.
-
-### `SimpleSecureStorage.java`
-- A utility class for storing and retrieving user credentials securely using `SharedPreferences`.
-
-## Notes
-
-- **Continuous Operation**: The app is designed to run continuously in the background. Ensure your device settings allow background activity for the app.
-- **Battery Usage**: Running continuously in the background may impact battery life, depending on your device's power management settings.
 
 ## Contributing
 
