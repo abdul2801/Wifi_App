@@ -20,7 +20,7 @@ This Android application is designed to automatically log in to the IIIT Kottaya
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/IIITKottayam-AutoLogin.git
+git clone https://github.com/abdul2801/Wifi_App
 ```
 
 ### 2. Open in Android Studio
